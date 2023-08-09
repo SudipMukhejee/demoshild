@@ -208,7 +208,7 @@ export default withPageAuthRequired(function New({ user }) {
             </Button>
           </form>
         </div>
-      </Page>StaticShield
+      </Page>RobustCrypt
       <Modal {...bindings}>
         <Modal.Title>
           <h3 className='!text-red-600 text-2xl -mb-5'>Warning</h3>

@@ -51,14 +51,14 @@ export default function Home() {
           className='!font-extrabold mt-12 text-5xl sm:text-7xl bg-gradient-to-r from-black via-gray-600 to-gray-500 !text-transparent bg-clip-text'
           h1>
           Robusta
-          <span className='px-2 bg-gray-900 rounded-xl text-gray-50'>
+          <span className='px-2 bg-blue-600 rounded-xl text-gray-50'>
           Crypt
           </span>
         </Text>
         <Text className='text-2xl'>
-        RobustaCrypt is the easiest way to{' '}
+        Fortify Your Website`&apos;`s Defense with RobustCrypt{' '}
           <span className='z-10 mx-1 heading-underline isolate whitespace-nowrap'>
-            password protect
+            password protection
           </span>{' '}
           <br />
           your Static and Dynamic Sites.
@@ -111,7 +111,7 @@ export default function Home() {
           </div>
         </div>
         <div className='mt-32'>
-          <h2 className='mb-12 text-4xl font-extrabold'>Features</h2>
+          <h2 className='mb-12 text-4xl font-extrabold'>Explore the Benefits of RobustaCrypt</h2>
           <div className='flex flex-wrap'>
             {features.map((feature) => {
               return (
@@ -127,7 +127,7 @@ export default function Home() {
         </div>
         <div className='mt-32'>
           <h2 className='mb-12 text-4xl font-extrabold'>
-            Protect any website with RobustaCrypt
+            Experience our seamless support & make Your online presence like never before!
           </h2>
           <Image src={Banner} alt='' placeholder='blur' />
           {/* eslint-disable-next-line @next/next/no-img-element */}

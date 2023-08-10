@@ -44,7 +44,7 @@ export default function Navbar() {
             <Image src={Logo} alt='StaticShield' width='30px' height='30px' />
             <Text b p className='ml-2 text-2xl'>
               Robusta
-              <span className='px-1 bg-gray-900 rounded-md text-gray-50'>
+              <span className='px-1 bg-blue-900 rounded-md text-gray-50'>
               Crypt
               </span>
             </Text>
@@ -54,7 +54,7 @@ export default function Navbar() {
           <div className='inline-block'>
             <NextLink href='/login'>
               <a
-                className='px-3 py-2 text-white bg-gray-900 rounded-md shadow-md hover:bg-gray-700'
+                className='px-3 py-2 text-white bg-amber-500 rounded-md shadow-md hover:bg-gray-700'
                 href='/login'>
                 Sign Up
               </a>

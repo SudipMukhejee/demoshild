@@ -51,7 +51,7 @@ export default function Home() {
           className='!font-extrabold mt-12 text-5xl sm:text-7xl bg-gradient-to-r from-black via-gray-600 to-gray-500 !text-transparent bg-clip-text'
           h1>
           Robusta
-          <span className='px-2 bg-blue-600 rounded-xl text-gray-50'>
+          <span className='px-2 bg-blue-900 rounded-xl text-gray-50'>
           Crypt
           </span>
         </Text>
@@ -69,7 +69,7 @@ export default function Home() {
             <Button
               size='large'
               type='success'
-              className='!inline-block ml-2 !shadow-md'>
+              className='!inline-block ml-2 bg-amber-300 text-white hover:bg-amber-400 hover:text-black'>
               Get Started &rarr;
             </Button>
           </Link>

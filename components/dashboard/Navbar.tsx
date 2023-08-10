@@ -141,7 +141,7 @@ export default function DashboardNavbar(props: DashboardNavbarProps) {
           <Image src={Logo} alt='StaticShield' width='30px' height='30px' />
           <Text b p className='ml-2 text-2xl'>
             Robusta
-            <span className='px-1 bg-gray-900 rounded-md text-gray-50'>
+            <span className='px-1 bg-blue-900 rounded-md text-gray-50'>
               Crypt
             </span>
           </Text>

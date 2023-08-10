@@ -54,7 +54,7 @@ export default function Navbar() {
           <div className='inline-block'>
             <NextLink href='/login'>
               <a
-                className='px-3 py-2 text-white bg-yellow-400 rounded-md shadow-md hover:bg-gray-700'
+                className='px-3 py-2 text-white bg-yellow-400 rounded-md shadow-md hover:bg-yellow-600'
                 href='/login'>
                 Sign Up
               </a>

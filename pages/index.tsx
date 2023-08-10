@@ -68,8 +68,7 @@ export default function Home() {
           <Link href='/signup'>
             <Button
               size='large'
-              type='success'
-              className='!inline-block ml-2 bg-yellow-300 text-white hover:bg-yellow-400 hover:text-white'>
+              className='!inline-block ml-2 bg-yellow-300 text-white hover:bg-yellow-500 hover:text-black'>
               Get Started &rarr;
             </Button>
           </Link>
@@ -142,7 +141,7 @@ export default function Home() {
         </div>
         <div className='mx-auto my-5'>
           <Link href='/signup'>
-            <Button type='secondary' size='large'>
+            <Button className='bg-yellow-300 text-white hover:bg-yellow-500 hover:text-black' size='large'>
               Sign up now
             </Button>
           </Link>

@@ -48,7 +48,6 @@ export default function Navbar() {
               Crypt
               </span>
             </Text>
-            <sup className='ml-1 text-gray-500'>ALPHA</sup>
           </div>
         </NextLink>
         <div className='hidden md:block'>

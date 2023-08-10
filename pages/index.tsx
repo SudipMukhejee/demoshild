@@ -56,7 +56,7 @@ export default function Home() {
           </span>
         </Text>
         <Text className='text-2xl'>
-        Fortify Your Website`&apos;`s Defense with RobustCrypt{' '}
+        Fortify Your Website&apos;s Defense with RobustCrypt{' '}
           <span className='z-10 mx-1 heading-underline isolate whitespace-nowrap'>
             password protection
           </span>{' '}

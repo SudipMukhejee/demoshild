@@ -145,9 +145,6 @@ export default function DashboardNavbar(props: DashboardNavbarProps) {
               Crypt
             </span>
           </Text>
-          <span>
-            <sup className='ml-1 text-gray-500'>BETA</sup>
-          </span>
           <Badge
             type='success'
             size='small'

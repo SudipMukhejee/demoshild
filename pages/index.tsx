@@ -69,7 +69,7 @@ export default function Home() {
             <Button
               size='large'
               type='success'
-              className='!inline-block ml-2 bg-amber-300 text-white hover:bg-amber-400 hover:text-black'>
+              className='!inline-block ml-2 bg-yellow-300 text-white hover:bg-yellow-400 hover:text-white'>
               Get Started &rarr;
             </Button>
           </Link>
